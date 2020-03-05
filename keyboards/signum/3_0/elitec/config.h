@@ -27,5 +27,8 @@
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5
 
+#define MK_KINETIC_SPEED
+#define MOUSEKEY_ACCELERATED_SPEED 2000
+
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
